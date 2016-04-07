@@ -1,7 +1,7 @@
 <?php
 include('simple_html_dom.php');
 
-$url = "http://www.ihna.edu.au";
+$url = website url;
 $html=file_get_html($url);
 $imglinks=array();
 $imglinksref=array();
